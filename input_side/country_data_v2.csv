@@ -1,4 +1,4 @@
-﻿Country,Capital,GDP,Population ,Pop_Growth_Rate ,Life_Expectancy,Median_Age,Urban_Population,Continent,Main_Official_Language,Currency
+﻿Country,Capital,GDP,"Population ","Pop_Growth_Rate ",Life_Expectancy,Median_Age,Urban_Population,Continent,Main_Official_Language,Currency
 Brazil,Brasília,2332,216.4,0.4,76,34.0,88.0,South America,Portuguese,Brazilian Real
 India,New Delhi,4335,1442,0.9,72,28.1,36.3,Asia,"Hindi, English",Indian Rupee
 Germany,Berlin,4591,83.3,-0.4,81,45.7,77.5,Europe,German,Euro
